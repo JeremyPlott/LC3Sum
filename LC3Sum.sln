@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC3Sum", "LC3Sum\LC3Sum.csproj", "{18DEB582-2161-4EDE-A5B7-475AF62C0BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DEB582-2161-4EDE-A5B7-475AF62C0BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DEB582-2161-4EDE-A5B7-475AF62C0BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DEB582-2161-4EDE-A5B7-475AF62C0BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DEB582-2161-4EDE-A5B7-475AF62C0BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A75B7D6A-6711-4A09-83C1-1D7BC3628C91}
+	EndGlobalSection
+EndGlobal
